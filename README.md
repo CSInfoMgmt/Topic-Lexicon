@@ -8,7 +8,8 @@ For tagging your text with a topic, we suggest to follow the similar preprocessi
 
 Tag a topic according to the majority matches. 
 
-NOTE: 1. For a generic topic assignment(irrespective of the country) for your text, combine all the lexicons of a topic from each country and then follow the same process. 
-      2. These can also be used as seed lexicons and then can further be extended using any Information Retrieval Techniques(such as Query Expansion, Pseudo Relevance Feedback, Synonyms, etc.)
+NOTE: 
+1. For a generic topic assignment(irrespective of the country) for your text, combine all the lexicons of a topic from each country and then follow the same process. 
+2. These can also be used as seed lexicons and then can further be extended using any Information Retrieval Techniques(such as Query Expansion, Pseudo Relevance Feedback, Synonyms, etc.)
 	
 
